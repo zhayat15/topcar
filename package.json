@@ -1,0 +1,8 @@
+@@ .. @@
+   "scripts": {
+-    "dev": "PORT=8000 next dev --turbopack",
++    "dev": "PORT=8000 next dev",
+     "build": "next build",
+     "start": "next start",
+     "lint": "next lint"
+   },
