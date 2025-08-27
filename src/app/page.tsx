@@ -303,8 +303,6 @@ export default function HomePage() {
               <div className="w-24 h-24 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-white text-3xl font-bold">TC</span>
               </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">Professional Equipment</h3>
-              <p className="text-gray-600">
                 State-of-the-art equipment and premium products ensure your vehicle receives the best possible care.
               </p>
             </div>
@@ -472,8 +470,6 @@ export default function HomePage() {
               <div className="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mb-4">
                 <span className="text-white text-xl font-bold">TC</span>
               </div>
-              <p className="text-gray-400 text-sm text-center md:text-left">
-                Professional car detailing services with a commitment to excellence and customer satisfaction.
               </p>
             </div>
             <div>
